@@ -6,3 +6,11 @@ h1 {
   text-align: center;
   text-transform: uppercase;
 }
+h2 {
+  color: #eee;
+  background-color: lightsalmon;
+  font-size: 1rem;
+  padding: 1em 0;
+  text-align: center;
+  text-transform: uppercase;
+}
